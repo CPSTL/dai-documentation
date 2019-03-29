@@ -17,7 +17,7 @@
 - Proxy-service
 - Source-code-setup
 - New-service
-## search: true
+
 # Dai.js
 
 **Dai.js** is a JavaScript library that makes it easy to build applications on top of MakerDAO's platform of smart contracts. You can use Maker's contracts to open Collateralized Debt Positions (CDPs), withdraw loans in Dai, trade tokens on OasisDEX, and more.
